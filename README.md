@@ -1,9 +1,5 @@
 ### Hi there, I am Avishree Khare 👋
 
-- 🌱 I’m currently learning how to learn
-- 👯 I’m looking to collaborate on any fun project!
-- 😄 Pronouns: she/her
-
 ### Connect with me:
 
 [<img align="left" alt="avishreekh.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
